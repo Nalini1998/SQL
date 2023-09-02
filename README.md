@@ -25,4 +25,4 @@ To get started, the following queries were executed:
 
 The insights acquired from the queries can help Technology Crunch readers understand the current trends in the startup world.
 
-#### **This project was completed by [Nalini Vo](https://github.com/Nalini1998)
+## **This project was completed by [Nalini Vo](https://github.com/Nalini1998)**
